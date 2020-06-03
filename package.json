@@ -1,0 +1,12 @@
+{
+  "name": "hugo-tailwind",
+  "version": "1.0.0",
+  "description": "",
+  "author": "praveenjuge",
+  "license": "MIT",
+  "dependencies": {
+    "autoprefixer": "^9.8.0",
+    "postcss-cli": "^7.1.1",
+    "tailwindcss": "^1.4.6"
+  }
+}
